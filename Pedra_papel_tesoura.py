@@ -2,7 +2,7 @@ import random
 
 #Definition of variables
 
-Player = 3
+Player = 0
 Player_status = 0
 Player_wins = 0
 Rival_status = 0

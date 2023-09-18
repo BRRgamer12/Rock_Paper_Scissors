@@ -101,4 +101,4 @@ if Player_wins > Rival_wins:
 elif Player_wins == Rival_wins:
     print("It's a draw")
 else:
-    print("The rivas is the winner")
+    print("The rival is the winner")
